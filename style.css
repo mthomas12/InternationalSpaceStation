@@ -18,3 +18,7 @@ body {
     color: navy;
     align-items: center;
 }
+
+#mapid {
+    height: 180px;
+}
