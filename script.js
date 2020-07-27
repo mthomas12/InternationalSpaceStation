@@ -19,5 +19,3 @@ function status(res) {
     }
     return res;
 }
-// call funtion
-getData();

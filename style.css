@@ -13,3 +13,8 @@ body {
     margin-left: 25px;
     margin-right: 25px;
 }
+
+#button {
+    color: navy;
+    align-items: center;
+}
