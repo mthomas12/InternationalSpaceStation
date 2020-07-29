@@ -9,7 +9,7 @@ body {
     color: white;
     text-align: center;
     width: 500px;
-    padding-top: 25px;
+    padding-top: 5px;
     margin-left: 25px;
     margin-right: 25px;
 }
@@ -20,5 +20,5 @@ body {
 }
 
 #mapid {
-    height: 180px;
+    height: 250px;
 }
